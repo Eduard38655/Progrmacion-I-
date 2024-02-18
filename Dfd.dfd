@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+h1
+1
+0
+2
+p1
+1
+0
+2
+p2
+1
+0
+6
+2
+2
+yf
+1
+0
+5
+total
+1
+0
+4
+1
+30
+"ingresa la altura menor: H1."
+5
+1
+2
+h1
+4
+1
+42
+"Ingresa la Presión a la altura menor: P1"
+5
+1
+2
+p1
+4
+1
+43
+"Ingresa la Presión a la altura mayor : P2"
+5
+1
+2
+p2
+4
+1
+31
+"Ingresa el peso del fluido YF"
+5
+1
+2
+yf
+6
+1
+5
+total
+15
+((p1-p2)/yf-h1)
+4
+1
+23
+"El total seria", total
+1
